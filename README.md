@@ -1,6 +1,6 @@
 ### Hi there, I'm Narayana reddy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### Connect with me <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jimphicdesigns.com%2Fdownloads%2Fdownload-page.php%3Fid%3D51&psig=AOvVaw3oF8pEdPqJdcSP2QDl10DQ&ust=1600259812197000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCJ_b-W6-sCFQAAAAAdAAAAABAJ" width="25px"></a>
+### Connect with me <img src="https://www.jimphicdesigns.com/downloads/imgs-mockup/red-down-arrow-moving-down-animation.gif" width="25px"></a>
 
 <a href="https://twitter.com/chinnapureddy7">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
