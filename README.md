@@ -30,7 +30,7 @@
 - 🔭 I’m currently working on kaggle projects
 - 🌱 I’m currently learning more about AI
 - 👯 I’m looking to collaborate with an Expert in data science
-- 🤔 I’m looking for help with Solving kaggle projects
+- 🤔 I’m looking for help w.r.t solving kaggle projects
 - 💬 Ask me about anything related to DATA SCIENCE
 - 📫 How to reach me: [Twitter - chinnapureddy7](https://twitter.com/chinnapureddy7)
 - ⚡ Fun fact: I'm a contemporary philosopher
