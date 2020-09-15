@@ -16,6 +16,9 @@
 <a href="https://www.facebook.com/narayanareddy.chinnapureddy.35/">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://www.youtube.com/channel/UC6SltFd3x6FaIYMWUEO1Nuw?view_as=subscriber">
+  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
 <br/>
 <br/>
