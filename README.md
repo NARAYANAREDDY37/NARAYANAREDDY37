@@ -1,4 +1,4 @@
-### Hi there, I'm Narayana reddy! 👋 
+### Hi there, I'm Narayana reddy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
 <a href="https://twitter.com/chinnapureddy7">
