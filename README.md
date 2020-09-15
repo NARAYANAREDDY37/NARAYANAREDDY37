@@ -1,6 +1,6 @@
 ### Hi there, I'm Narayana reddy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### Connect with me <img src="https://www.jimphicdesigns.com/downloads/imgs-mockup/red-down-arrow-moving-down-animation.gif" width="25px"></a>
+### Connect with me <img src="https://media3.giphy.com/media/J4n8zUlfvthV8HDm1E/source.gif" width="25px"></a>
 
 <a href="https://twitter.com/chinnapureddy7">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
