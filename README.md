@@ -35,3 +35,6 @@
 - 📫 How to reach me: [Twitter - chinnapureddy7](https://twitter.com/chinnapureddy7)
 - ⚡ Fun fact: I'm a contemporary philosopher
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png"></code>
