@@ -49,7 +49,7 @@ I'm an electrical and electronics engineering graduate of 2019 batch. I'm inquis
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NARAYANAREDDY37&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 
-<div align="center">
+<div align="Left">
 
 ### Below there are some amazing repositories of my personal projects! <img src="https://media2.giphy.com/media/eGOiIlaHrGErV22huo/giphy_s.gif?cid=ecf05e47gkv2eu79wpgm4smsrsy19393rz2knhyteqrwddsw&rid=giphy_s.gif" width="100px"></a>
 
