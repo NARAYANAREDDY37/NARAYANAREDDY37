@@ -51,6 +51,6 @@ I'm an electrical and electronics engineering graduate of 2019 batch. I'm inquis
 
 <div align="center">
 
-### Below there are some amazing repositories of my personal projects! <img src="https://media2.giphy.com/media/eGOiIlaHrGErV22huo/giphy_s.gif?cid=ecf05e47gkv2eu79wpgm4smsrsy19393rz2knhyteqrwddsw&rid=giphy_s.gif" width="25px"></a>
+### Below there are some amazing repositories of my personal projects! <img src="https://media2.giphy.com/media/eGOiIlaHrGErV22huo/giphy_s.gif?cid=ecf05e47gkv2eu79wpgm4smsrsy19393rz2knhyteqrwddsw&rid=giphy_s.gif" width="100px"></a>
 
 </div>
