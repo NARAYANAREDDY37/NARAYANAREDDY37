@@ -58,7 +58,7 @@ I'm an electrical and electronics engineering graduate of 2019 batch. I'm inquis
 
 </a>
 <a href="https://github.com/NARAYANAREDDY37/Prediction-of-champagne-sales-by-using-ARIMA-model-">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NARAYANAREDDY37&repo=Prediction-of-champagne-sales-by-using-ARIMA-model-X&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NARAYANAREDDY37&repo=Prediction-of-champagne-sales-by-using-ARIMA-model-&theme=light" />
 </a>
 
 
