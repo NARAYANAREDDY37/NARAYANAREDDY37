@@ -45,13 +45,11 @@ I'm an electrical and electronics engineering graduate of 2019 batch. I'm inquis
 <a href="https://github.com/NARAYANAREDDY37">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARAYANAREDDY37&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/NARAYANAREDDY37">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=NARAYANAREDDY37&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
+![Narayana reddy's github stats](https://github-readme-stats.vercel.app/api?username=NARAYANAREDDY37&show_icons=true)
 
 <div align="Left">
 
 ### Below there are some amazing repositories of my personal projects! <img src="https://media4.giphy.com/media/l1J9P0qQRurXaersY/giphy.gif?cid=ecf05e47ig7b2nog6qej9doka69bqybar1cgsnezzguzobog&rid=giphy.gif" width="75px"></a>
 
-![Narayana reddy's github stats](https://github-readme-stats.vercel.app/api?username=NARAYANAREDDY37&show_icons=true)
+
 </div>
