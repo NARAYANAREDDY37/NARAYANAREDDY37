@@ -53,5 +53,13 @@ I'm an electrical and electronics engineering graduate of 2019 batch. I'm inquis
 
 ### Below there are some amazing repositories of my personal projects! <img src="https://media4.giphy.com/media/l1J9P0qQRurXaersY/giphy.gif?cid=ecf05e47ig7b2nog6qej9doka69bqybar1cgsnezzguzobog&rid=giphy.gif" width="50px"></a>
 
+<a href="https://github.com/NARAYANAREDDY37/-Malaria-disease-detection-by-using-deep-learning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NARAYANAREDDY37&repo=-Malaria-disease-detection-by-using-deep-learning&theme=light" />
+
+</a>
+<a href="https://github.com/NARAYANAREDDY37/Prediction-of-champagne-sales-by-using-ARIMA-model-">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NARAYANAREDDY37&repo=Prediction-of-champagne-sales-by-using-ARIMA-model-X&theme=light" />
+</a>
+
 
 </div>
