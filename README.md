@@ -43,9 +43,9 @@ I'm an electrical and electronics engineering graduate of 2019 batch. I'm inquis
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 <a href="https://github.com/NARAYANAREDDY37">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARAYANAREDDY37&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/NARAYANAREDDY37">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=NARAYANAREDDY37&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 
