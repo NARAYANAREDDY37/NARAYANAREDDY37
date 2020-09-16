@@ -51,6 +51,7 @@ I'm an electrical and electronics engineering graduate of 2019 batch. I'm inquis
 
 <div align="Left">
 
-### Below there are some amazing repositories of my personal projects! <img src="https://media4.giphy.com/media/l1J9P0qQRurXaersY/giphy.gif?cid=ecf05e47ig7b2nog6qej9doka69bqybar1cgsnezzguzobog&rid=giphy.gif" width="100px"></a>
+### Below there are some amazing repositories of my personal projects! <img src="https://media4.giphy.com/media/l1J9P0qQRurXaersY/giphy.gif?cid=ecf05e47ig7b2nog6qej9doka69bqybar1cgsnezzguzobog&rid=giphy.gif" width="75px"></a>
 
+![Narayana reddy's github stats](https://github-readme-stats.vercel.app/api?username=NARAYANAREDDY37a&show_icons=true)
 </div>
