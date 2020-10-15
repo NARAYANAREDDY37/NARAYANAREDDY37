@@ -49,7 +49,7 @@ Currently, I am looking for a full-time role in Data Analytics, Machine Learning
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 
 <br />
-<br />
+
 ---
 
 <a href="https://github.com/NARAYANAREDDY37">
