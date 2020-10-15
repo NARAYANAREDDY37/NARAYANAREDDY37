@@ -29,6 +29,7 @@ Currently, I am looking for a full-time role in Data Analytics, Machine Learning
 </a>
 
 <br />
+<br />
 
 - 🔭 I’m currently working on kaggle projects
 - 🌱 I’m currently learning more about **AI**
