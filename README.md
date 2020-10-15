@@ -50,7 +50,6 @@ Currently, I am looking for a full-time role in Data Analytics, Machine Learning
 
 <br />
 <br />
-
 ---
 
 <a href="https://github.com/NARAYANAREDDY37">
