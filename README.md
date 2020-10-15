@@ -28,8 +28,10 @@ Currently, I am looking for a full-time role in Data Analytics, Machine Learning
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-<br/>
-<br/>
+<br />
+<br />
+
+---
 
 - 🔭 I’m currently working on kaggle projects
 - 🌱 I’m currently learning more about **AI**
@@ -44,6 +46,9 @@ Currently, I am looking for a full-time role in Data Analytics, Machine Learning
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
 
 <a href="https://github.com/NARAYANAREDDY37">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARAYANAREDDY37&theme=light&hide_langs_below=1" />
