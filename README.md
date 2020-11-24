@@ -31,9 +31,8 @@ Currently, I am looking for a full-time role in Data Analytics, Machine Learning
 <br />
 <br />
 
-- 💬 Ask me about anything related to **DATA SCIENCE**
+- 💬 Ask me anything related to **DATA**
 - 📫 How to reach me: [Twitter - chinnapureddy7](https://twitter.com/chinnapureddy7)
-- ⚡ Fun fact: I'm a contemporary philosopher
 
 **Languages and Tools:**  
 
