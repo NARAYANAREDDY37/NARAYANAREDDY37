@@ -1,6 +1,6 @@
 ### Hi there, I'm Narayana reddy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I'm an electrical and electronics engineering graduate of 2019 batch. I'm inquisitive towards learning new technologies So, I made career transition into data science after completing my under graduation. Now I'm focusing on **Machine learning**, **Deep learning**, analytical tools like **Advanced Excel** and **power BI**
+I'm an electrical and electronics engineering graduate of 2019 batch. I'm inquisitive towards learning new technologies So, I made career transition into data science after completing my under graduation. Now my focus is on **Machine learning (End to End)**, **Deep learning (NLP)**, analytical tools like **Advanced Excel** and **power BI**
 
 Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.
 
