@@ -1,8 +1,8 @@
 ### Hi there, I'm Narayana reddy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I'm an electrical and electronics engineering graduate of 2019 batch. I'm inquisitive towards learning new technologies So, I made career transition into **Data Science** and **Web Development** after completing my under graduation. Now my focus is on **Machine learning (End to End)**, **Deep learning (NLP)**, analytical tools like **Advanced Excel**, **power BI**, **React** with JavaScript and TypeScript
+I'm an electrical and electronics engineering graduate of 2019 batch. I'm inquisitive towards learning new technologies So, I made career transition into **Data Science** and **UI Development** after completing my under graduation. Now my focus is on **Machine learning (End to End)**, **Deep learning (NLP)**, analytical tools like **Advanced Excel**, **power BI**, **React** with JavaScript and TypeScript
 
-Currently, I am looking for a full-time role in Data Science, Machine Learning and Web Development.
+Currently, I am looking for a full-time role in Data Science, Machine Learning and UI Development.
 
 ### Connect with me <img src="https://media0.giphy.com/media/b73wUq1jFLBTy/200w.webp?cid=ecf05e47ssn5j01gupjyc6c22xkdbpev381onlz7kzlrwlz9&rid=200w.webp" width="75px"></a>
 
@@ -31,7 +31,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning a
 <br />
 <br />
 
-- 💬 Ask me anything related to **DATA**
+- 💬 Ask me anything related to **DATA** and **UI Development**
 - 📫 How to reach me: [Twitter - chinnapureddy7](https://twitter.com/chinnapureddy7)
 
 **Languages and Tools:**  
