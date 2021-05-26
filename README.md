@@ -7,9 +7,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning a
 ### Connect with me <img src="https://media0.giphy.com/media/b73wUq1jFLBTy/200w.webp?cid=ecf05e47ssn5j01gupjyc6c22xkdbpev381onlz7kzlrwlz9&rid=200w.webp" width="75px"></a>
 
 <a href="https://twitter.com/chinnapureddy7">
-  <img align="left" alt="Narayana's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  ![image](https://user-images.githubusercontent.com/58145503/119644373-68c42e00-be3a-11eb-8e11-66f00829a565.png)
-
+  <img align="left" alt="Narayana's Twitter" width="22px" src="https://user-images.githubusercontent.com/58145503/119644373-68c42e00-be3a-11eb-8e11-66f00829a565.png" />
 </a>
 <a href="https://www.linkedin.com/in/narayana-reddy-chinnapu-reddy-8a96a6145/">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
