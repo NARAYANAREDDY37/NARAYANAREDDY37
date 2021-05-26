@@ -22,7 +22,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning a
   <img align="left" alt="Narayana's Instagram" width="22px" src="https://user-images.githubusercontent.com/58145503/119644704-cce6f200-be3a-11eb-80d9-2a235576682d.png" />
 </a>
 <a href="https://www.facebook.com/narayanareddy.chinnapureddy.35/" target="_blank">
-  <img align="left" alt="Narayana's Facebook" width="22px" src="https://user-images.githubusercontent.com/58145503/119644373-68c42e00-be3a-11eb-8e11-66f00829a565.png" />
+  <img align="left" alt="Narayana's Facebook" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png" />
 </a>
 <a href="https://www.youtube.com/channel/UC6SltFd3x6FaIYMWUEO1Nuw?view_as=subscriber" target="_blank">
   <img align="left" alt="Narayana's Youtube" width="22px" src="https://user-images.githubusercontent.com/58145503/119644846-ff90ea80-be3a-11eb-9fc6-27cb165a355d.png" />
