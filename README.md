@@ -16,7 +16,7 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning a
   <img align="left" alt="Narayana's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/narayanareddy37" target="_blank">
-  <img align="left" alt="Narayana's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Narayana's Telegram" width="22px" src="https://user-images.githubusercontent.com/58145503/119648906-9f507780-be3f-11eb-8ad9-ec47d5a7d88a.png" />
 </a>
 <a href="https://www.instagram.com/__narayanareddy37__/?hl=en" target="_blank">
   <img align="left" alt="Narayana's Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
