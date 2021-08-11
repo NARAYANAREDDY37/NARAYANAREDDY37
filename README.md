@@ -2,7 +2,7 @@
 
 I'm an electrical and electronics engineering graduate. I'm inquisitive towards learning new technologies. So, I made career transition into **UI Development** and currently working as FrontEnd Developer.
 
-I'm also familiar with AI technologies like **Data Science** **Machine Learning** and **Deep Learning**
+I'm also familiar with AI technologies like **Data Science,** **Machine Learning** and **Deep Learning**
 
 
 ### Connect with me <img src="https://media0.giphy.com/media/b73wUq1jFLBTy/200w.webp?cid=ecf05e47ssn5j01gupjyc6c22xkdbpev381onlz7kzlrwlz9&rid=200w.webp" width="75px"></a>
