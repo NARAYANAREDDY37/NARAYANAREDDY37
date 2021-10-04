@@ -32,8 +32,8 @@ I'm also familiar with AI technologies like **Data Science,** **Machine Learning
 <br />
 <br />
 
-- 💬 Ask me anything related to**UI Development** and **DATA**
-- 📫 How to reach me: [Twitter - chinnapureddy7](https://twitter.com/chinnapureddy7)
+<!-- - 💬 Ask me anything related to**UI Development** and **DATA**
+- 📫 How to reach me: [Twitter - chinnapureddy7](https://twitter.com/chinnapureddy7) -->
 
 **Languages and Tools:**  
 
